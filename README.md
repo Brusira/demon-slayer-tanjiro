@@ -23,5 +23,4 @@ O projeto contém duas páginas principais:
 
 ## Time de Desenvolvimento
 
-- Eu
-- Instrutores da Alura: [Guilherme Lima](https://github.com/guilhermeonrails) e [Rafaella Ballerini](https://github.com/rafaballerini)
+- Eu (Bruno Siratsute)
