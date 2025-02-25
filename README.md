@@ -23,4 +23,4 @@ O projeto contém duas páginas principais:
 
 ## Time de Desenvolvimento
 
-- Eu (Bruno Siratsute)
+- Desenvolvido por mim conforme os conhecimentos assimilados nos cursos mencionados acima.
